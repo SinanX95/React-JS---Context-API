@@ -1,5 +1,5 @@
-# Todo App
+# Task App
 
-This app basically can create, remove and edit todos.
+This application's goal is to learn how to make CRUD operations using Context API.
 
 Live: https://todo-app-with-context-api.netlify.app/
